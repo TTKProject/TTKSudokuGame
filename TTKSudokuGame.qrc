@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>images/clear.png</file>
+        <file>images/new.png</file>
+    </qresource>
+</RCC>
